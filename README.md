@@ -17,7 +17,7 @@ GUIM.page({
     name: 'Calculus',
     launch: function () {
 
-        Sbm.create({
+        GUIM.create({
             extend: 'TwoColumnsLayout',
             items: [
 			{
